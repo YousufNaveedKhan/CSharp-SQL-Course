@@ -46,4 +46,4 @@ To contribute, follow these steps:
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content of this repository for any purpose.
+This repository is licensed under the Educational Materials License. You are free to use, modify, and distribute the content of this repository for educational purposes only. See the [LISENCE](LICENSE) file for details.
