@@ -1,0 +1,7 @@
+C:\Users\92331\source\repos\LengthConverterApp\LengthConverterApp\bin\Debug\LengthConverterApp.exe.config
+C:\Users\92331\source\repos\LengthConverterApp\LengthConverterApp\bin\Debug\LengthConverterApp.exe
+C:\Users\92331\source\repos\LengthConverterApp\LengthConverterApp\bin\Debug\LengthConverterApp.pdb
+C:\Users\92331\source\repos\LengthConverterApp\LengthConverterApp\obj\Debug\LengthConverterApp.csprojAssemblyReference.cache
+C:\Users\92331\source\repos\LengthConverterApp\LengthConverterApp\obj\Debug\LengthConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\92331\source\repos\LengthConverterApp\LengthConverterApp\obj\Debug\LengthConverterApp.exe
+C:\Users\92331\source\repos\LengthConverterApp\LengthConverterApp\obj\Debug\LengthConverterApp.pdb
