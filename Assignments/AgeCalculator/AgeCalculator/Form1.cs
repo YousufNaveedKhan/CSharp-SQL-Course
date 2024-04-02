@@ -18,7 +18,7 @@ namespace AgeCalculator
         }
 
 
-        private void button1_Click(object sender, EventArgs e)
+        private void CalculateButton_Click(object sender, EventArgs e)
         {
             int BirthYear = Convert.ToInt32(BYear.Text);
             int CurrentYear = Convert.ToInt32(CYear.Text);
